@@ -1,0 +1,9 @@
+*{margin:0;padding:0;}
+html,body{height:100%;width:100%;}
+.categ,.code{border:1px solid black;border-radius:20px;padding:1.2rem;}
+#main{padding:15px;}
+.buttons{display:flex;flex-direction: column;width:15rem;}
+.button{border: 1px solid black;margin:0.5rem;padding:0.25rem;}
+.button.is-rounded{border-radius:8px;}
+a{cursor: pointer;text-decoration: none;}
+a:visited{text-decoration: none;color: black;}
